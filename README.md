@@ -1,2 +1,0 @@
-# pa-mi-noviaa
-web
